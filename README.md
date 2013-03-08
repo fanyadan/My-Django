@@ -1,1 +1,1 @@
-This is only a simple experimental project of Django, which is studying purpose only.
+This is only a simple experimental project of Django, which is for studying purpose only.
